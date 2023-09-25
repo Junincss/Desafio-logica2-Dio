@@ -6,9 +6,10 @@
 
 # **Acessando Resoluções**
 
-[![Resulucao](https://img.shields.io/badge/Resoulcao_1-87CEEB?style=for-the-badge&logo=)](https://github.com/Junincss/Dio-Desafio-Logica-1/blob/main/Resolucao%201.js)
+[![Resulucao](https://img.shields.io/badge/Resoulcao_1-87CEEB?style=for-the-badge&logo=)](https://github.com/Junincss/Desafio-logica2-Dio/blob/main/Desafio2.js)
 
-[![Resulucao](https://img.shields.io/badge/Resoulcao_2-87CEEB?style=for-the-badge&logo=)](https://github.com/Junincss/Dio-Desafio-Logica-1/blob/main/Resolucao%201.js)
+[![Resulucao](https://img.shields.io/badge/Resoulcao_2-7FFF00?style=for-the-badge&logo=)](https://github.com/Junincss/Desafio-logica2-Dio/blob/main/Desafio2R2.js)
+na Segunda resolução proposta, foi criada uma function main, para executar as 3 functions e assim disponibilizar os resultados desejados.
 
 # 2️⃣ Calculadora de partidas Rankeadas
 
